@@ -12,3 +12,4 @@ git status
 git log
 git reflog
 git diff
+git checkout -- filename
