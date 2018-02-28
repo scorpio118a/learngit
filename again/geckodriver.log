@@ -1,0 +1,25 @@
+1518160986058	geckodriver	INFO	geckodriver 0.19.1
+1518160986065	geckodriver	INFO	Listening on 127.0.0.1:54252
+1518160988110	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\penghuan\\AppData\\Local\\Temp\\rust_mozprofile.AQ4YxxtmUeeT"
+1518160988809	Marionette	INFO	Enabled via --marionette
+1518160991314	Marionette	INFO	Listening on port 54266
+Unable to read VR Path Registry from C:\Users\penghuan\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7288, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=s&json=1&p=3&sid=1431_21084_18560_17001_20930&req=2&csor=1&cb=jQuery11020756694044382779_1518160956949&_=1518160956951, line 1: TypeError: jQuery11020756694044382779_1518160956949 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=se&json=1&p=3&sid=1431_21084_18560_17001_20930&req=2&csor=2&pwd=s&cb=jQuery11020756694044382779_1518160956949&_=1518160956952, line 1: TypeError: jQuery11020756694044382779_1518160956949 is not a function
+Unable to read VR Path Registry from C:\Users\penghuan\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7264, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7264, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+2&csor=2&pwd=p&cb=jQuery110204161250311025143_1518160835010&_=1518160835013, line 1: TypeError: jQuery110204161250311025143_1518160835010 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=p&json=1&p=3&sid=1427_21118_17001&req=2&csor=1&cb=jQuery110204161250311025143_1518160835010&_=1518160835012, line 1: TypeError: jQuery110204161250311025143_1518160835010 is not a function
+e-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+Unable to read VR Path Registry from C:\Users\penghuan\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: chrome://marionette/content/proxy.js, line 270: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIMessageSender.sendAsyncMessage]
+ 2900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+uild/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
