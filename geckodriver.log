@@ -1,0 +1,11 @@
+1496825221186	geckodriver	INFO	Listening on 127.0.0.1:56434
+1496825223252	mozprofile::profile	INFO	Using profile path C:\Users\penghuan\AppData\Local\Temp\rust_mozprofile.KOiZxOQ1dEgk
+1496825223255	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1496825223257	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56448
+1496825224212	Marionette	INFO	Listening on port 56448
+[NPAPI 4020] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 333
+000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7772] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[NPAPI 8016] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ 5460] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 333
+ 1: TypeError: jQuery110206916995359241656_1495619180435 is not a function
